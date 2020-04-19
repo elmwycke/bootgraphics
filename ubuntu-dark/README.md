@@ -1,7 +1,11 @@
 There are two files:
+
 ubuntu-dark.img
+
 and
+
 ubuntu-dark.zip
+
 If TWRP is installed, choose ubuntu-dark.zip and flash it like you would any other piece of software.
 If not, choose ubuntu-dark.img and follow the instructions below:
 1. Download ubuntu-dark.img
