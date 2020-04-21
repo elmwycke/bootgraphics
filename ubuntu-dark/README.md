@@ -16,3 +16,6 @@ If not, choose ubuntu-dark.img and follow the instructions below:
 6. You should now see the modified version.
 
 If you do NOT see it, you may have flashed the .zip file with fastboot, or the .img file with TWRP. Make sure you flash the right one. You may not have powered the device off after running the command, instead just selecting "Start". Reboot the device and you should see it.
+
+#Preview
+![Preview](./preview.png)
