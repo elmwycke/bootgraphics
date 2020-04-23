@@ -6,7 +6,7 @@ and
 
 lineage-wordmark-dark.zip
 
-If TWRP is installed, choose ubuntu-dark.zip and flash it like you would any other piece of software.
+If TWRP is installed, choose lineage-wordmark-dark.zip and flash it like you would any other piece of software.
 If not, choose lineage-wordmark-dark.img and follow the instructions below:
 1. Download lineage-wordmark-dark.img
 2. Navigate to where it is downloaded.
