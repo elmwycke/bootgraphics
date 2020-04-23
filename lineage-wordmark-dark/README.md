@@ -1,17 +1,17 @@
 There are two files:
 
-ubuntu-dark.img
+lineage-wordmark-dark.img
 
 and
 
-ubuntu-dark.zip
+lineage-wordmark-darkv.zip
 
 If TWRP is installed, choose ubuntu-dark.zip and flash it like you would any other piece of software.
-If not, choose ubuntu-dark.img and follow the instructions below:
-1. Download ubuntu-dark.img
+If not, choose lineage-wordmark-dark.img and follow the instructions below:
+1. Download lineage-wordmark-dark.img
 2. Navigate to where it is downloaded.
 3. Make sure fastboot and adb are installed.
-4. Run the command "fastboot flash imgdata ubuntu-dark.img"
+4. Run the command "fastboot flash imgdata lineage-wordmark-dark.img"
 5. Power off the device after flashing it.
 6. You should now see the modified version.
 
