@@ -4,7 +4,7 @@ android-dark.img
 
 and
 
-android-dark.zip
+android-dark.sh
 
 If TWRP is installed, choose android-dark.zip and flash it like you would any other piece of software.
 
